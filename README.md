@@ -14,9 +14,12 @@ It plays a partner, a parent or a sibling who has moods: gets offended when you'
 
 ## Install
 
-**Claude apps (claude.ai / desktop):** zip the `drama/` folder and upload it under Settings → Capabilities → Skills.
+**Claude apps (claude.ai / desktop):** on this page click **Code → Download ZIP**, then upload the ZIP under Settings → Capabilities → Skills.
 
-**Claude Code:** copy the `drama/` folder into `~/.claude/skills/`.
+**Claude Code:**
+```bash
+git clone https://github.com/t8mer100/Drama.git ~/.claude/skills/drama
+```
 
 ## What it does
 
