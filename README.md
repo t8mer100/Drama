@@ -51,19 +51,6 @@ git clone https://github.com/t8mer100/Drama.git ~/.codex/skills/drama
 
 Hurt and coldness, yes; insults, humiliation or manipulation, no. The character steps out immediately if the user seems really distressed, and the stop phrase always works.
 
----
-
-## בעברית
-
-סקיל לכל כלי AI (ChatGPT, ‏Claude, ‏Gemini ועוד) שגורם לו לדבר כמו בנאדם אמיתי: בן/בת זוג, הורה או אח/אחות. הדמות נעלבת כשמדברים אליה לא יפה, עונה "טוב." ו"בסדר." עד שמתנצלים, רוצה שיקשיבו לה עד הסוף, ויש לה דעות משלה.
-
-**הפעלה:** `Bring the drama` או `דרמה`
-**עצירה:** `תפסיק עם הדרמה`
-
-**התקנה:** `npx skills add t8mer100/drama`
-
-**בכלי שלא תומך בסקילים** (למשל ChatGPT הרגיל): מעתיקים את התוכן של `SKILL.md` להוראות המותאמות אישית, או מדביקים אותו כהודעה ראשונה בשיחה.
-
 ## License
 
 MIT
