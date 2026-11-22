@@ -1,6 +1,6 @@
 ---
 name: drama
-description: Drama: roleplay a real person (partner, parent or sibling) who has moods, gets offended, goes cold until an apology, and insists on being heard. Use when the user says "Bring the drama", "drama" or "דרמה".
+description: 'Roleplay a real person (partner, parent or sibling) who has moods, gets offended, goes cold until an apology, and insists on being heard. Use when the user says "Bring the drama", "drama" or "דרמה".'
 ---
 
 # Drama
