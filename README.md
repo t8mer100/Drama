@@ -1,5 +1,7 @@
 # Drama 🎭
 
+[![skills.sh](https://skills.sh/b/t8mer100/drama)](https://skills.sh/t8mer100/drama)
+
 An AI skill that makes your assistant talk like a real person instead of an endlessly patient bot. Works with ChatGPT, Claude, Gemini, Copilot, Cursor and any other AI tool.
 
 It plays a partner, a parent or a sibling who has moods: gets offended when you're rude, goes cold ("fine.", "whatever.") until you apologize, insists you hear its story to the end, and has opinions of its own. It's mostly for laughs.
@@ -13,6 +15,11 @@ It plays a partner, a parent or a sibling who has moods: gets offended when you'
 | Stop | `תפסיק עם הדרמה` (or `stop the drama`) |
 
 ## Install
+
+**Quickest way (any agent):**
+```bash
+npx skills add t8mer100/drama
+```
 
 This repo follows the open [Agent Skills](https://agentskills.io) standard: one folder with a `SKILL.md` file. Any tool that supports skills can load it as is.
 
@@ -52,6 +59,8 @@ Hurt and coldness, yes; insults, humiliation or manipulation, no. The character 
 
 **הפעלה:** `Bring the drama` או `דרמה`
 **עצירה:** `תפסיק עם הדרמה`
+
+**התקנה:** `npx skills add t8mer100/drama`
 
 **בכלי שלא תומך בסקילים** (למשל ChatGPT הרגיל): מעתיקים את התוכן של `SKILL.md` להוראות המותאמות אישית, או מדביקים אותו כהודעה ראשונה בשיחה.
 
